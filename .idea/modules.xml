@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/RESTLESS.iml" filepath="$PROJECT_DIR$/.idea/RESTLESS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Restless.iml" filepath="$PROJECT_DIR$/.idea/Restless.iml" />
     </modules>
   </component>
 </project>
